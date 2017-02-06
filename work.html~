@@ -48,7 +48,7 @@
 -->
 									<hr class="major" />
 
-									<h2>Understanding cardiac ailments</h2>
+									<h2>Understanding cardiac ailements</h2>
 									<p>This began as a pet-project over the course of my third year as a Biomed undergrad. I had taken two electives in the mechanical engineering department to study fluid dynamics, and the concepts grew on me. The courses provided insight on CFD in atmospheric scales and built environments but the same concepts were applicable in smaller scales with different boundary conditions - so I applied it to blood vessels. The idea was to simulate and visualize turbulence in obstructed blood flow. I cannot openly reveal the details of the paper due to copyrights but you may subscribe and read on IEEE Xplore. I welcome your feedback.</p>
 									<p>Title: 3-dimensional computational study of blood flow in pathophysiologically affected arteries simulated in OpenFOAM</p>
 									<p>Shyam Srinivasan and Deepa Madathil, Proceedings of 2016 8th CIBEC, IEEE, Pg 35-38 (2016)</p>
